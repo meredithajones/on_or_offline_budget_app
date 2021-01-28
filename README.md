@@ -1,4 +1,4 @@
-# on_or_offline_budget_app
+# On or Offline Budget Application
 ***
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
