@@ -2,7 +2,7 @@
   "name": "on_or_offline_budget_app",
   "version": "1.0.0",
   "description": "Budget Application",
-  "main": "server .js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
