@@ -25,7 +25,7 @@ const FILES_TO_CACHE = [
   
     self.skipWaiting();
   });
-  
+  //Listening for the activate event
   self.addEventListener("activate", function(evt) {
     evt.waitUntil(
       caches.keys().then(keyList => {
@@ -43,7 +43,7 @@ const FILES_TO_CACHE = [
     self.clients.claim();
   });
   
-  // fetch
+  // fetch event 
   self.addEventListener("fetch", function(evt) {
     // cache successful requests to the API
     if (evt.request.url.includes("/api/")) {
