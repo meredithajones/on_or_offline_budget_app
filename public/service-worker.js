@@ -5,10 +5,10 @@ const FILES_TO_CACHE = [
     "/app.js",
     "/models/transaction.js",
     "/assets/css/style.css",
-    "/manifest.webmanifest",
-    "/images/icons/icon-192x192.png",
-    "/images/icons/icon-512x512.png",
-    "/images/icons/budget.png"
+    // "/manifest.webmanifest",
+    "/assets/images/icons/icon-192x192.png",
+    "/assets/images/icons/icon-512x512.png",
+    "/assets/images/icons/budget.png"
   ];
   
   const CACHE_NAME = "static-cache-v2";
