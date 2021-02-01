@@ -5,7 +5,7 @@ const FILES_TO_CACHE = [
     "/app.js",
     "/models/transaction.js",
     "/assets/css/style.css",
-    // "/manifest.webmanifest",
+    "/manifest.webmanifest",
     "/assets/images/icons/icon-192x192.png",
     "/assets/images/icons/icon-512x512.png",
     "/assets/images/icons/budget.png"

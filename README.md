@@ -29,12 +29,11 @@
 
 ## Links
 
-* [Deployed Link]()
+* [Deployed Link](https://stark-escarpment-77732.herokuapp.com/)
 
 ## User Story
 AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
@@ -73,11 +72,13 @@ Then run node server.js to start the server.
 <summary>Technology used to create application</summary>
 
 
-* 
+* Mongoose
 
-* 
+* Morgan
 
-* Inquirer
+* Compression
+
+* Express
 
 * Nodejs
 
@@ -94,7 +95,9 @@ Then run node server.js to start the server.
 
 ## Credits
 
-* [Stack Overflow general research](https://stackoverflow.com/) 
+* [Net Ninja – PWA Tutorial Series for Beginners Youtube Series](https://www.youtube.com/watch?v=4XT23X0Fjfk) 
+* [Stack Overflow – What should I do with the redundant state of a ServiceWorker?](https://stackoverflow.com/questions/39608546/what-should-i-do-with-the-redundant-state-of-a-serviceworker#:~:text=A%20service%20worker%20will%20become,happens%20is%20up%20to%20you.) 
+* [Monterail.com – Make Your PWA Work Offline Part 2 - Dynamic Data](https://www.monterail.com/blog/pwa-offline-dynamic-data) 
 * [Mdn web docs general research](https://developer.mozilla.org/en-US/)
 * [AskBCS bug fixes]
 * [Mdn web docs general research](https://developer.mozilla.org/
