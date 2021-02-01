@@ -82,8 +82,6 @@ Then run node server.js to start the server.
 
 * Nodejs
 
-* 
-* 
 	
 
 </details>
@@ -95,6 +93,7 @@ Then run node server.js to start the server.
 
 ## Credits
 
+* [Google Developer Tools, Service Workers: an Introduction](https://developers.google.com/web/fundamentals/primers/service-workers)
 * [Net Ninja – PWA Tutorial Series for Beginners Youtube Series](https://www.youtube.com/watch?v=4XT23X0Fjfk) 
 * [Stack Overflow – What should I do with the redundant state of a ServiceWorker?](https://stackoverflow.com/questions/39608546/what-should-i-do-with-the-redundant-state-of-a-serviceworker#:~:text=A%20service%20worker%20will%20become,happens%20is%20up%20to%20you.) 
 * [Monterail.com – Make Your PWA Work Offline Part 2 - Dynamic Data](https://www.monterail.com/blog/pwa-offline-dynamic-data) 
