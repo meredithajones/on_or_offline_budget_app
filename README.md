@@ -52,19 +52,17 @@ In order to run the application, open the server.js file in integrated terminal 
 Then run node server.js to start the server. 
 
 ### Screen Shots
-![“”]()
 
   ### Gifs
 <br>
 
- _App Functionality: ""_
-<br>
-![""](public/assets/imgs/)
+ _App Functionality: "Showing data entered in offline mode persisting when the app is brought back online"_
 
 <br>
 
-![“"]()
+![A short gif showing that the application can recieve an entry while online, and retain the information once the app is back online as well.](public/assets/images/gif/budget.gif)
 
+<br>
 
 
 ## Technologies
