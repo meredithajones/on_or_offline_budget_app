@@ -1,6 +1,18 @@
+//Offline Data
+// db.enablePersistence()
+//     .catch(err => {
+//         if (err.code == 'failed-precondition'){
+//             //probably multiple tabs open
+//             console.log("persistence failed");
+//         }else if (err.code == "unimplemented"){
+//             //lack of browser support
+//             console.log("persistence is not available");
+//         }
+//     })
+
 let db;
-// create a new db request for a "budget" database.
-const request = indexedDB.open("budget", 1);
+// create a new db request for a "budget_app" database.
+const request = indexedDB.open("budget_app", 1);
 
 request.onupgradeneeded = function(event) {
    // create object store called "pending" and set autoIncrement to true
